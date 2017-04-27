@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" viewBox="0 0 21 21">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10.156" height="10.188" viewBox="0 0 10.156 10.188">
   <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -27,5 +27,19 @@
                                                                                                     
                            
 <?xpacket end="w"?></metadata>
-<image id="_" data-name="" width="21" height="21" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAQAAAADHm0dAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfhBBgEFifPehNXAAAA8ElEQVQoz42SUZGEMBBEX67WQE4CFjgJWQlYwAJIIBLOAkggEkDCrgQioe/jWC65Laj0V1KZmrzuGQMAslzIxP2gQZuuNcsC6lSiGYwW6pN/Iz0RcLTAJ1pOOy07YCNJsh8Uq6R0T+f2xucJRBwt9Y5QvaJKWTclFjVn5Pa3dNagh6Qh/UC1JOlbY2prxVMBawbzBCAwldvKEzCRFXDZm0t6Z10D0Ko5SC0dEMwB9ReWx1EzaiIQqeiwgE99Li/nqv4NeVN3Mljz5I7f2SITXybtmU/LRHp62WSZ30pdHj4ovRyDLVvtEW7GCxqutdLDD5j2GPbX/BW4AAAAAElFTkSuQmCC"/>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #f1cdb0;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="283.875" y="185.906" width="10.156" height="10.188" filterUnits="userSpaceOnUse">
+      <feFlood result="flood"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Shape_1_copy" data-name="Shape 1 copy" class="cls-1" d="M283.875,191l5.086-5.085L294.046,191l-5.085,5.086Z" transform="translate(-283.875 -185.906)"/>
 </svg>
